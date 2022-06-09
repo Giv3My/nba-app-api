@@ -1,0 +1,21 @@
+{
+  "name": "nba-app-server",
+  "version": "1.0.0",
+  "description": "Server for NBA App",
+  "main": "index.js",
+  "scripts": {
+    "seeds": "node ./db/seeds.js",
+    "server": "nodemon ./index.js",
+    "start": "npm run seeds & npm run server"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.15"
+  },
+  "license": "ISC",
+  "author": "Giv3My (Vlad Bessmertnykh <bessvlad45@gmail.com>)"
+}

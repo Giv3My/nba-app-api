@@ -1,0 +1,1113 @@
+{
+  "teams": [
+    {
+      "id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3409",
+      "name": "Bulls",
+      "market": "Chicago",
+      "alias": "CHI",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "f3aaf23a-1ceb-46ef-8fef-9403692e801b",
+        "name": "Central",
+        "alias": "CENTRAL"
+      },
+      "players": [
+        "sr:player:1141188",
+        "sr:player:1163678",
+        "sr:player:1605464",
+        "sr:player:1855344",
+        "sr:player:607290",
+        "sr:player:1320578",
+        "sr:player:1075216",
+        "sr:player:607420",
+        "sr:player:1142574",
+        "sr:player:1797198",
+        "sr:player:607442",
+        "sr:player:1142660",
+        "sr:player:1239222",
+        "sr:player:1582800",
+        "sr:player:1635334",
+        "sr:player:607400",
+        "sr:player:1491934"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612741/global/L/logo.svg"
+    },
+    {
+      "id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3410",
+      "name": "Bucks",
+      "market": "Milwaukee",
+      "alias": "MIL",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "f3aaf23a-1ceb-46ef-8fef-9403692e801b",
+        "name": "Central",
+        "alias": "CENTRAL"
+      },
+      "players": [
+        "sr:player:608058",
+        "sr:player:1300814",
+        "sr:player:852114",
+        "sr:player:607440",
+        "sr:player:607830",
+        "sr:player:607876",
+        "sr:player:852206",
+        "sr:player:607336",
+        "sr:player:608230",
+        "sr:player:607866",
+        "sr:player:1497645",
+        "sr:player:607534",
+        "sr:player:1304640",
+        "sr:player:1317896",
+        "sr:player:996293",
+        "sr:player:1497615"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612749/global/L/logo.svg"
+    },
+    {
+      "id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3411",
+      "name": "Mavericks",
+      "market": "Dallas",
+      "alias": "DAL",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "1d29f94c-9587-494b-a232-feb20a40eb4c",
+        "name": "Southwest",
+        "alias": "SOUTHWEST"
+      },
+      "players": [
+        "sr:player:860122",
+        "sr:player:1142682",
+        "sr:player:608188",
+        "sr:player:922446",
+        "sr:player:921210",
+        "sr:player:1050927",
+        "sr:player:608190",
+        "sr:player:607802",
+        "sr:player:996307",
+        "sr:player:607360",
+        "sr:player:1159266",
+        "sr:player:1172814",
+        "sr:player:608166",
+        "sr:player:1943544",
+        "sr:player:1055723",
+        "sr:player:926008",
+        "sr:player:1304652",
+        "sr:player:607314"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612742/global/L/logo.svg"
+    },
+    {
+      "id": "583ecb3a-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3412",
+      "name": "Rockets",
+      "market": "Houston",
+      "alias": "HOU",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "1d29f94c-9587-494b-a232-feb20a40eb4c",
+        "name": "Southwest",
+        "alias": "SOUTHWEST"
+      },
+      "players": [
+        "sr:player:1166316",
+        "sr:player:1286462",
+        "sr:player:1630744",
+        "sr:player:1886632",
+        "sr:player:2100528",
+        "sr:player:2101736",
+        "sr:player:607514",
+        "sr:player:2208736",
+        "sr:player:2079303",
+        "sr:player:1595388",
+        "sr:player:852208",
+        "sr:player:1829892",
+        "sr:player:2195912",
+        "sr:player:607388",
+        "sr:player:1588480",
+        "sr:player:607548",
+        "sr:player:1108475"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612745/global/L/logo.svg"
+    },
+    {
+      "id": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3413",
+      "name": "Kings",
+      "market": "Sacramento",
+      "alias": "SAC",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+        "name": "Pacific",
+        "alias": "PACIFIC"
+      },
+      "players": [
+        "sr:player:1126371",
+        "sr:player:607728",
+        "sr:player:996309",
+        "sr:player:607822",
+        "sr:player:1296164",
+        "sr:player:996313",
+        "sr:player:1863638",
+        "sr:player:852130",
+        "sr:player:1161964",
+        "sr:player:1596754",
+        "sr:player:607662",
+        "sr:player:1497689",
+        "sr:player:607350",
+        "sr:player:1121881",
+        "sr:player:607370",
+        "sr:player:852174"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612758/global/L/logo.svg"
+    },
+    {
+      "id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3414",
+      "name": "Trail Blazers",
+      "market": "Portland",
+      "alias": "POR",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+        "name": "Northwest",
+        "alias": "NORTHWEST"
+      },
+      "players": [
+        "sr:player:2068597",
+        "sr:player:1178320",
+        "sr:player:852032",
+        "sr:player:1175448",
+        "sr:player:607570",
+        "sr:player:2081843",
+        "sr:player:607552",
+        "sr:player:996325",
+        "sr:player:611966",
+        "sr:player:1479148",
+        "sr:player:1582798",
+        "sr:player:1794084",
+        "sr:player:607996",
+        "sr:player:1795024",
+        "sr:player:607406",
+        "sr:player:2281033",
+        "sr:player:1142606",
+        "sr:player:1176984",
+        "sr:player:1588392"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612757/global/L/logo.svg"
+    },
+    {
+      "id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3415",
+      "name": "Grizzlies",
+      "market": "Memphis",
+      "alias": "MEM",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "1d29f94c-9587-494b-a232-feb20a40eb4c",
+        "name": "Southwest",
+        "alias": "SOUTHWEST"
+      },
+      "players": [
+        "sr:player:1176944",
+        "sr:player:2080949",
+        "sr:player:1876228",
+        "sr:player:608000",
+        "sr:player:1316824",
+        "sr:player:1296716",
+        "sr:player:1770170",
+        "sr:player:1168552",
+        "sr:player:1171084",
+        "sr:player:1876122",
+        "sr:player:1171432",
+        "sr:player:1826622",
+        "sr:player:1770166",
+        "sr:player:607888",
+        "sr:player:1164396",
+        "sr:player:852176",
+        "sr:player:1316832"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612763/global/L/logo.svg"
+    },
+    {
+      "id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3416",
+      "name": "Suns",
+      "market": "Phoenix",
+      "alias": "PHX",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+        "name": "Pacific",
+        "alias": "PACIFIC"
+      },
+      "players": [
+        "sr:player:607702",
+        "sr:player:1770162",
+        "sr:player:852170",
+        "sr:player:608186",
+        "sr:player:1172484",
+        "sr:player:607824",
+        "sr:player:1608728",
+        "sr:player:1296680",
+        "sr:player:1171706",
+        "sr:player:1176834",
+        "sr:player:1159900",
+        "sr:player:607704",
+        "sr:player:607730",
+        "sr:player:1238732",
+        "sr:player:852082",
+        "sr:player:607942",
+        "sr:player:852220"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612756/global/L/logo.svg"
+    },
+    {
+      "id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3417",
+      "name": "Nuggets",
+      "market": "Denver",
+      "alias": "DEN",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+        "name": "Northwest",
+        "alias": "NORTHWEST"
+      },
+      "players": [
+        "sr:player:607864",
+        "sr:player:1070362",
+        "sr:player:607810",
+        "sr:player:1307708",
+        "sr:player:1142684",
+        "sr:player:1142586",
+        "sr:player:926116",
+        "sr:player:1943512",
+        "sr:player:996299",
+        "sr:player:2195772",
+        "sr:player:1167458",
+        "sr:player:607628",
+        "sr:player:1143456",
+        "sr:player:607318",
+        "sr:player:1055725",
+        "sr:player:607600",
+        "sr:player:607468"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612743/global/L/logo.svg"
+    },
+    {
+      "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3418",
+      "name": "Thunder",
+      "market": "Oklahoma City",
+      "alias": "OKC",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+        "name": "Northwest",
+        "alias": "NORTHWEST"
+      },
+      "players": [
+        "sr:player:1167498",
+        "sr:player:1688447",
+        "sr:player:1586536",
+        "sr:player:1795018",
+        "sr:player:1794082",
+        "sr:player:2117214",
+        "sr:player:1795484",
+        "sr:player:607766",
+        "sr:player:1175208",
+        "sr:player:1608076",
+        "sr:player:1699351",
+        "sr:player:1499593",
+        "sr:player:607500",
+        "sr:player:1159790",
+        "sr:player:1491986",
+        "sr:player:1307702",
+        "sr:player:1316770"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612760/global/L/logo.svg"
+    },
+    {
+      "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3419",
+      "name": "Pacers",
+      "market": "Indiana",
+      "alias": "IND",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "f3aaf23a-1ceb-46ef-8fef-9403692e801b",
+        "name": "Central",
+        "alias": "CENTRAL"
+      },
+      "players": [
+        "sr:player:607920",
+        "sr:player:2081865",
+        "sr:player:1491954",
+        "sr:player:1497623",
+        "sr:player:852084",
+        "sr:player:1882756",
+        "sr:player:1493497",
+        "sr:player:607880",
+        "sr:player:852046",
+        "sr:player:1930078",
+        "sr:player:852196",
+        "sr:player:1491980",
+        "sr:player:996305",
+        "sr:player:1350040",
+        "sr:player:608174",
+        "sr:player:852090",
+        "sr:player:996319"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612754/global/L/logo.svg"
+    },
+    {
+      "id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3420",
+      "name": "76ers",
+      "market": "Philadelphia",
+      "alias": "PHI",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "582d6502-9a93-4a8d-8785-69374d732875",
+        "name": "Atlantic",
+        "alias": "ATLANTIC"
+      },
+      "players": [
+        "sr:player:607508",
+        "sr:player:1592124",
+        "sr:player:607862",
+        "sr:player:1495351",
+        "sr:player:607780",
+        "sr:player:1889616",
+        "sr:player:608250",
+        "sr:player:1167898",
+        "sr:player:2100488",
+        "sr:player:2195778",
+        "sr:player:607778",
+        "sr:player:607528",
+        "sr:player:1166950",
+        "sr:player:1317962",
+        "sr:player:926170",
+        "sr:player:1595382",
+        "sr:player:1070998"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612755/global/L/logo.svg"
+    },
+    {
+      "id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3421",
+      "name": "Knicks",
+      "market": "New York",
+      "alias": "NYK",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "582d6502-9a93-4a8d-8785-69374d732875",
+        "name": "Atlantic",
+        "alias": "ATLANTIC"
+      },
+      "players": [
+        "sr:player:607792",
+        "sr:player:608108",
+        "sr:player:1794190",
+        "sr:player:1770168",
+        "sr:player:607756",
+        "sr:player:1302236",
+        "sr:player:607750",
+        "sr:player:1055729",
+        "sr:player:1491396",
+        "sr:player:1582856",
+        "sr:player:1478984",
+        "sr:player:608034",
+        "sr:player:607850",
+        "sr:player:608288",
+        "sr:player:1491414",
+        "sr:player:1491436",
+        "sr:player:1315510"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612752/global/L/logo.svg"
+    },
+    {
+      "id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3422",
+      "name": "Celtics",
+      "market": "Boston",
+      "alias": "BOS",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "582d6502-9a93-4a8d-8785-69374d732875",
+        "name": "Atlantic",
+        "alias": "ATLANTIC"
+      },
+      "players": [
+        "sr:player:1158584",
+        "sr:player:1168380",
+        "sr:player:607978",
+        "sr:player:1179162",
+        "sr:player:1646556",
+        "sr:player:1593872",
+        "sr:player:1141196",
+        "sr:player:1142550",
+        "sr:player:1163040",
+        "sr:player:607636",
+        "sr:player:1930152",
+        "sr:player:1433761",
+        "sr:player:607754",
+        "sr:player:921118",
+        "sr:player:1169096",
+        "sr:player:1142554",
+        "sr:player:996297"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612738/global/L/logo.svg"
+    },
+    {
+      "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3423",
+      "name": "Hawks",
+      "market": "Atlanta",
+      "alias": "ATL",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "players": [
+        "sr:player:852058",
+        "sr:player:852096",
+        "sr:player:1307730",
+        "sr:player:607432",
+        "sr:player:1141198",
+        "sr:player:608098",
+        "sr:player:2088293",
+        "sr:player:1880108",
+        "sr:player:1499267",
+        "sr:player:1170128",
+        "sr:player:1178448",
+        "sr:player:607922",
+        "sr:player:607898",
+        "sr:player:1300846",
+        "sr:player:2078875",
+        "sr:player:607604"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612737/global/L/logo.svg"
+    },
+    {
+      "id": "583ec928-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3424",
+      "name": "Pistons",
+      "market": "Detroit",
+      "alias": "DET",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "f3aaf23a-1ceb-46ef-8fef-9403692e801b",
+        "name": "Central",
+        "alias": "CENTRAL"
+      },
+      "players": [
+        "sr:player:1296698",
+        "sr:player:1497685",
+        "sr:player:608010",
+        "sr:player:2068637",
+        "sr:player:608212",
+        "sr:player:1317946",
+        "sr:player:1588128",
+        "sr:player:1142584",
+        "sr:player:1279058",
+        "sr:player:607622",
+        "sr:player:1837404",
+        "sr:player:611942",
+        "sr:player:1607864",
+        "sr:player:1164354",
+        "sr:player:1316816",
+        "sr:player:1593946",
+        "sr:player:1255696"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612765/global/L/logo.svg"
+    },
+    {
+      "id": "583ecdfb-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3425",
+      "name": "Clippers",
+      "market": "LA",
+      "alias": "LAC",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+        "name": "Pacific",
+        "alias": "PACIFIC"
+      },
+      "players": [
+        "sr:player:2100530",
+        "sr:player:994293",
+        "sr:player:1142566",
+        "sr:player:608236",
+        "sr:player:2195760",
+        "sr:player:607910",
+        "sr:player:2281035",
+        "sr:player:607852",
+        "sr:player:1126375",
+        "sr:player:1163000",
+        "sr:player:607608",
+        "sr:player:1829226",
+        "sr:player:1590398",
+        "sr:player:608084",
+        "sr:player:607550",
+        "sr:player:608072",
+        "sr:player:852180"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612746/global/L/logo.svg"
+    },
+    {
+      "id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3426",
+      "name": "Timberwolves",
+      "market": "Minnesota",
+      "alias": "MIN",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+        "name": "Northwest",
+        "alias": "NORTHWEST"
+      },
+      "players": [
+        "sr:player:1499589",
+        "sr:player:1161064",
+        "sr:player:1318564",
+        "sr:player:996279",
+        "sr:player:1167592",
+        "sr:player:1320568",
+        "sr:player:1796560",
+        "sr:player:607472",
+        "sr:player:1619350",
+        "sr:player:1837406",
+        "sr:player:852120",
+        "sr:player:1161592",
+        "sr:player:1070978",
+        "sr:player:1876136",
+        "sr:player:996295",
+        "sr:player:852034"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612750/global/L/logo.svg"
+    },
+    {
+      "id": "583ecae2-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3427",
+      "name": "Lakers",
+      "market": "Los Angeles",
+      "alias": "LAL",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+        "name": "Pacific",
+        "alias": "PACIFIC"
+      },
+      "players": [
+        "sr:player:608028",
+        "sr:player:1159096",
+        "sr:player:608170",
+        "sr:player:1121879",
+        "sr:player:607492",
+        "sr:player:607298",
+        "sr:player:2103296",
+        "sr:player:852040",
+        "sr:player:607340",
+        "sr:player:607592",
+        "sr:player:607760",
+        "sr:player:607836",
+        "sr:player:1493507",
+        "sr:player:608100",
+        "sr:player:1168578",
+        "sr:player:1499765",
+        "sr:player:608216"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612747/global/L/logo.svg"
+    },
+    {
+      "id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3428",
+      "name": "Warriors",
+      "market": "Golden State",
+      "alias": "GSW",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "f074cb3e-90cf-42e1-8067-cdbcd99ec230",
+        "name": "Pacific",
+        "alias": "PACIFIC"
+      },
+      "players": [
+        "sr:player:1174784",
+        "sr:player:1316820",
+        "sr:player:607470",
+        "sr:player:1830344",
+        "sr:player:608020",
+        "sr:player:607676",
+        "sr:player:607522",
+        "sr:player:608110",
+        "sr:player:1071000",
+        "sr:player:607494",
+        "sr:player:2077831",
+        "sr:player:854480",
+        "sr:player:1158924",
+        "sr:player:2195914",
+        "sr:player:1499747",
+        "sr:player:1894116",
+        "sr:player:852188"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612744/global/L/logo.svg"
+    },
+    {
+      "id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3429",
+      "name": "Spurs",
+      "market": "San Antonio",
+      "alias": "SAS",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "1d29f94c-9587-494b-a232-feb20a40eb4c",
+        "name": "Southwest",
+        "alias": "SOUTHWEST"
+      },
+      "players": [
+        "sr:player:1159256",
+        "sr:player:1491400",
+        "sr:player:1491406",
+        "sr:player:1592714",
+        "sr:player:2222478",
+        "sr:player:607618",
+        "sr:player:996315",
+        "sr:player:1167698",
+        "sr:player:1141194",
+        "sr:player:2078269",
+        "sr:player:1166582",
+        "sr:player:1770176",
+        "sr:player:1491940",
+        "sr:player:1304676",
+        "sr:player:996287",
+        "sr:player:852080",
+        "sr:player:1620146"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612759/global/L/logo.svg"
+    },
+    {
+      "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3430",
+      "name": "Hornets",
+      "market": "Charlotte",
+      "alias": "CHA",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "players": [
+        "sr:player:1875264",
+        "sr:player:1161808",
+        "sr:player:2087989",
+        "sr:player:1871528",
+        "sr:player:1307734",
+        "sr:player:1165452",
+        "sr:player:1795016",
+        "sr:player:852166",
+        "sr:player:852218",
+        "sr:player:607982",
+        "sr:player:1499293",
+        "sr:player:1307768",
+        "sr:player:607858",
+        "sr:player:1158306",
+        "sr:player:607716",
+        "sr:player:1875466",
+        "sr:player:852022"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612766/global/L/logo.svg"
+    },
+    {
+      "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3431",
+      "name": "Wizards",
+      "market": "Washington",
+      "alias": "WAS",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "players": [
+        "sr:player:1142594",
+        "sr:player:608256",
+        "sr:player:1613688",
+        "sr:player:1319316",
+        "sr:player:852216",
+        "sr:player:1797222",
+        "sr:player:1142582",
+        "sr:player:1286466",
+        "sr:player:1170310",
+        "sr:player:1611382",
+        "sr:player:857572",
+        "sr:player:861604",
+        "sr:player:608182",
+        "sr:player:2195918",
+        "sr:player:1168660",
+        "sr:player:1321394",
+        "sr:player:607418"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612764/global/L/logo.svg"
+    },
+    {
+      "id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3432",
+      "name": "Cavaliers",
+      "market": "Cleveland",
+      "alias": "CLE",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "f3aaf23a-1ceb-46ef-8fef-9403692e801b",
+        "name": "Central",
+        "alias": "CENTRAL"
+      },
+      "players": [
+        "sr:player:1171656",
+        "sr:player:1302282",
+        "sr:player:1588474",
+        "sr:player:1141204",
+        "sr:player:607542",
+        "sr:player:1296148",
+        "sr:player:1166108",
+        "sr:player:607960",
+        "sr:player:607366",
+        "sr:player:1124733",
+        "sr:player:1584378",
+        "sr:player:1593878",
+        "sr:player:1795454",
+        "sr:player:996291",
+        "sr:player:1882742",
+        "sr:player:2080549",
+        "sr:player:852042"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612739/global/L/logo.svg"
+    },
+    {
+      "id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3433",
+      "name": "Raptors",
+      "market": "Toronto",
+      "alias": "TOR",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "582d6502-9a93-4a8d-8785-69374d732875",
+        "name": "Atlantic",
+        "alias": "ATLANTIC"
+      },
+      "players": [
+        "sr:player:611962",
+        "sr:player:2078473",
+        "sr:player:1167194",
+        "sr:player:1497643",
+        "sr:player:607928",
+        "sr:player:1830348",
+        "sr:player:1070990",
+        "sr:player:1070982",
+        "sr:player:1499595",
+        "sr:player:1595370",
+        "sr:player:1793968",
+        "sr:player:1499297",
+        "sr:player:1123905",
+        "sr:player:1797208",
+        "sr:player:1543229",
+        "sr:player:1930184",
+        "sr:player:1167932"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612761/global/L/logo.svg"
+    },
+    {
+      "id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3434",
+      "name": "Jazz",
+      "market": "Utah",
+      "alias": "UTA",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "12bf14ba-eb16-4c6f-8275-e801b6947c1e",
+        "name": "Northwest",
+        "alias": "NORTHWEST"
+      },
+      "players": [
+        "sr:player:607936",
+        "sr:player:1585682",
+        "sr:player:1070964",
+        "sr:player:2101750",
+        "sr:player:852134",
+        "sr:player:607808",
+        "sr:player:611002",
+        "sr:player:608194",
+        "sr:player:1170364",
+        "sr:player:607516",
+        "sr:player:608224",
+        "sr:player:1171128",
+        "sr:player:608136",
+        "sr:player:1141362",
+        "sr:player:924344",
+        "sr:player:1172228",
+        "sr:player:1307780"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612762/global/L/logo.svg"
+    },
+    {
+      "id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3435",
+      "name": "Heat",
+      "market": "Miami",
+      "alias": "MIA",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "players": [
+        "sr:player:607444",
+        "sr:player:1124727",
+        "sr:player:1512651",
+        "sr:player:1612346",
+        "sr:player:607346",
+        "sr:player:1491420",
+        "sr:player:1166892",
+        "sr:player:2100382",
+        "sr:player:1491410",
+        "sr:player:608172",
+        "sr:player:1663761",
+        "sr:player:607832",
+        "sr:player:607692",
+        "sr:player:607904",
+        "sr:player:1889962",
+        "sr:player:608114",
+        "sr:player:1853516"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612748/global/L/logo.svg"
+    },
+    {
+      "id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3436",
+      "name": "Nets",
+      "market": "Brooklyn",
+      "alias": "BKN",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "582d6502-9a93-4a8d-8785-69374d732875",
+        "name": "Atlantic",
+        "alias": "ATLANTIC"
+      },
+      "players": [
+        "sr:player:607326",
+        "sr:player:607958",
+        "sr:player:2078557",
+        "sr:player:607896",
+        "sr:player:1307666",
+        "sr:player:1593908",
+        "sr:player:607670",
+        "sr:player:996289",
+        "sr:player:607620",
+        "sr:player:607556",
+        "sr:player:607950",
+        "sr:player:607934",
+        "sr:player:1586640",
+        "sr:player:2081895",
+        "sr:player:608268",
+        "sr:player:1172650",
+        "sr:player:607536"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612751/global/L/logo.svg"
+    },
+    {
+      "id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:3437",
+      "name": "Magic",
+      "market": "Orlando",
+      "alias": "ORL",
+      "conference": {
+        "id": "3960cfac-7361-4b30-bc25-8d393de6f62f",
+        "name": "EASTERN CONFERENCE",
+        "alias": "EASTERN"
+      },
+      "division": {
+        "id": "54dc7348-c1d2-40d8-88b3-c4c0138e085d",
+        "name": "Southeast",
+        "alias": "SOUTHEAST"
+      },
+      "players": [
+        "sr:player:1492002",
+        "sr:player:1167990",
+        "sr:player:1875438",
+        "sr:player:1141202",
+        "sr:player:1604398",
+        "sr:player:1491398",
+        "sr:player:607332",
+        "sr:player:2080521",
+        "sr:player:1304564",
+        "sr:player:1141192",
+        "sr:player:1427411",
+        "sr:player:1874842",
+        "sr:player:607796",
+        "sr:player:1177906",
+        "sr:player:607438",
+        "sr:player:1177150",
+        "sr:player:1296162"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612753/global/L/logo.svg"
+    },
+    {
+      "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+      "sr_id": "sr:team:5539",
+      "name": "Pelicans",
+      "market": "New Orleans",
+      "alias": "NOP",
+      "conference": {
+        "id": "7fe7e212-de01-4f8f-a31d-b9f0a95731e3",
+        "name": "WESTERN CONFERENCE",
+        "alias": "WESTERN"
+      },
+      "division": {
+        "id": "1d29f94c-9587-494b-a232-feb20a40eb4c",
+        "name": "Southwest",
+        "alias": "SOUTHWEST"
+      },
+      "players": [
+        "sr:player:607992",
+        "sr:player:1497693",
+        "sr:player:2196318",
+        "sr:player:1770174",
+        "sr:player:1770164",
+        "sr:player:852200",
+        "sr:player:1497683",
+        "sr:player:1296160",
+        "sr:player:1626720",
+        "sr:player:996321",
+        "sr:player:1304668",
+        "sr:player:2106618",
+        "sr:player:1946896",
+        "sr:player:852066",
+        "sr:player:607968",
+        "sr:player:607970",
+        "sr:player:608210"
+      ],
+      "team_logo_url": "https://cdn.nba.com/logos/nba/1610612740/global/L/logo.svg"
+    }
+  ]
+}
