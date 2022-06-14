@@ -50,7 +50,7 @@ class TeamController {
         return res.status(500).json({ error: 'Too many results' });
       }
     } else {
-      return res.json([]);
+      return res.json(null);
     }
   }
 }
