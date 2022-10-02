@@ -22,6 +22,12 @@ const seeding = async () => {
   try {
     await connectDB('Seeding database...');
 
+    const teamsExist = await TeamModel.find();
+
+    if (teamsExist.length) {
+      return console.log('DB has been already seeded');
+    }
+
     await seedTeams();
     await seedPlayers();
   } catch (e) {
